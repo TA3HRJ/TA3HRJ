@@ -1,4 +1,4 @@
-# H. Erhan Ozkan, MD — TA3HX
+# H. Erhan Ozkan, MD | TA3HX
 
 > **My callsign is TA3HX since 16 September 2026, formerly TA3HRJ.**
 > This GitHub account keeps the username `TA3HRJ` so that existing links to
